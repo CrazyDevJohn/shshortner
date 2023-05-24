@@ -12,7 +12,7 @@ your link will be shortned
 
 Conributers 
 SpeedX 
-Github: https://www.github.com/Devilshalani
+Github: https://www.github.com/CrazyDevilJohn
 
 if you want to use any part of code ask me and give me the credits
 # shdhortner
